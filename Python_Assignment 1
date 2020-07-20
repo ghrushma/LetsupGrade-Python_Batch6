@@ -1,0 +1,54 @@
+
+Day 1- Python_Batch6      20july20
+Assignment 1:
+
+1. What is python ? What are the ways to install python in your PC ?
+
+Answer- Python:
+
+Python is an interpreted, object-oriented, high-level programming language with dynamic semantics.
+Python's simple, easy to learn syntax emphasizes readability and therefore reduces the cost of program maintenance.
+Python supports modules and packages, which encourages program modularity and code reuse.
+Created by Guido van Rossum and first released in 1991, Python's design philosophy emphasizes code readability with its notable use of significant whitespace.
+
+Filename extensions: .py,.pyi,.pyc,.pyd,.pyo (prior to 3.5),.pyw,.pyz (since 3.5)
+
+Python can be used for things like: Back end (or server-side) web and mobile app development.
+
+----Ways to install python in your PC:--
+
+1.Python Installer:
+From its official website you can download python version which is required for you.
+https://www.python.org
+
+2. Anaconda:
+https://www.anaconda.com/products/individual
+Download the anaconda .exe file and install the anaconda tool into your system.After installing it will provide you the anaconda Prompt and anaconda navigator for your use in system.
+Use the anaconda navigator for learning the python and python development it has many other libraries.
+
+3. Pycharm:
+https://www.jetbrains.com/pycharm
+
+
+
+
+Que2.-What are code environments? Types.
+
+Answer:-
+
+Code Environment:-
+coding environments are the environments where we can write the codes and where compilation is performed and in that only we can get the output.
+
+Types:-
+
+1. Text Editors
+
+Eg: Notepad,Visual studio code
+
+2. Integrated Development Environment(IDE)
+
+Eg: Pycharm and Spyder
+
+3. Notebook Environment
+
+Eg: Jupyter
